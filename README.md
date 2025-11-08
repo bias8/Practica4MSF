@@ -1,10 +1,10 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=bias8/Practica4MSF)
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Bricia Idalia Arellano Salones [22211746]; L22211746@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -36,13 +36,13 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 59;
+2. x2(0) = 44;
+3. x3(0) = 885;
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Regeneración de glóbulos rojos, modelo matemático, simulaciones numéricas.
 
 ## Lista de archivos incluidos en el repositorio
 
