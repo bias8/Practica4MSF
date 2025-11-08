@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'MATLAB; '
+message: 'lenguaje m; '
+type: software
+authors:
+  - given-names: Bricia Idalia
+    family-names: Arellano Salones
+    email: L22211746@tectijuana.edu.mx
+    affiliation: TecNM-ITT
+repository-code: >-
+  https://matlab.mathworks.com/open/github/v1?repo=bias8/Practica4MSF
+keywords:
+  - Regeneración de glóbulos rojos
+  - Modelo matemático
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
